@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/gamegam/TransferNPC
+build-by-default: true
+branches:
+- master
+projects:
+  TransferNPC_v1.0.0:
+    path: TransferNPC_v1.0.0/
+...
